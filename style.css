@@ -1,0 +1,5 @@
+﻿body{width:1900px; margin:0 auto; background-color:#b0e487}
+h1{text-align:center; background-color:#5c7a50}
+form{ width:420px; text-align:left; border:5px solid #5c7a50; 
+float:left; padding:20px; margin-left:5px;background-color:#d3ffb1}
+input{border:1px solid green; margin-top:10px}
